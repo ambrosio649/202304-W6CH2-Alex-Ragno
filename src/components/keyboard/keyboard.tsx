@@ -1,6 +1,6 @@
 import { useContext } from "react";
 import { Key } from "../key/key";
-import { PhoneContext } from "../../context/phone.context";
+import { PhoneContext } from "../../feature/phone/context/phone.context";
 
 export function Keyboard() {
   const {
